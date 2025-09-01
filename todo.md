@@ -1,2 +1,2 @@
- - make me a script that takes in a string and a number, and prints them together
+ - make me a function that takes in a string and a number, and prints them together: string: number
  - push to the repository
