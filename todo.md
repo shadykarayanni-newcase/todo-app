@@ -1,0 +1,2 @@
+ - make me a script that takes in a string and a number, and prints them together
+ - push to the repository
